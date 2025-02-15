@@ -1,0 +1,44 @@
+\contentsline {section}{\numberline {1}Loading and Visualizing the Dataset}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Feature 1 - 2}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Feature 3 - 4}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Feature 5 - 6}{4}{}%
+\contentsline {section}{\numberline {2}Principal Component Analysis and Linear Discriminant Analysis}{5}{}%
+\contentsline {subsection}{\numberline {2.1}PCA}{5}{}%
+\contentsline {subsection}{\numberline {2.2}LDA}{5}{}%
+\contentsline {subsection}{\numberline {2.3}LDA as classifier}{6}{}%
+\contentsline {subsection}{\numberline {2.4}PCA + LDA}{6}{}%
+\contentsline {section}{\numberline {3}Computing Probability densities}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Plot Gaussian densities}{8}{}%
+\contentsline {section}{\numberline {4}Generative models for classification}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Trying different models}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Analysis using features 1-6}{10}{}%
+\contentsline {subsection}{\numberline {4.3}Analysis using features 1-4}{10}{}%
+\contentsline {subsection}{\numberline {4.4}Analysis using features 1-2}{10}{}%
+\contentsline {subsection}{\numberline {4.5}Analysis using features 3-4}{11}{}%
+\contentsline {subsection}{\numberline {4.6}Using PCA as preprocessing}{11}{}%
+\contentsline {section}{\numberline {5}Performance of Multivariate Gaussian models}{12}{}%
+\contentsline {subsection}{\numberline {5.1}Computing minDCF and actDCF}{12}{}%
+\contentsline {subsection}{\numberline {5.2}Bayes error plots}{14}{}%
+\contentsline {section}{\numberline {6}Performance of Logistic Regression models}{15}{}%
+\contentsline {subsection}{\numberline {6.1}Standard version}{15}{}%
+\contentsline {subsection}{\numberline {6.2}Fewer training samples version}{15}{}%
+\contentsline {subsection}{\numberline {6.3}Prior-weighted model}{16}{}%
+\contentsline {subsection}{\numberline {6.4}Quadratic Logistic Regression model}{16}{}%
+\contentsline {subsection}{\numberline {6.5}Centering the model}{17}{}%
+\contentsline {subsection}{\numberline {6.6}LR vs Gaussian Models}{17}{}%
+\contentsline {section}{\numberline {7}Performance of Support Vector Machines models}{18}{}%
+\contentsline {subsection}{\numberline {7.1}Linear model}{18}{}%
+\contentsline {subsection}{\numberline {7.2}Polynomial Kernel}{18}{}%
+\contentsline {subsection}{\numberline {7.3}Radial Basis Function Kernel}{19}{}%
+\contentsline {subsection}{\numberline {7.4}Results}{20}{}%
+\contentsline {section}{\numberline {8}Performance of Gaussian Mixture Models}{21}{}%
+\contentsline {subsection}{\numberline {8.1}Performance of GMM}{21}{}%
+\contentsline {subsection}{\numberline {8.2}Analysis between models}{22}{}%
+\contentsline {section}{\numberline {9}Calibration and Fusion}{24}{}%
+\contentsline {subsection}{\numberline {9.1}Models calibration}{24}{}%
+\contentsline {subsection}{\numberline {9.2}Models fusion}{25}{}%
+\contentsline {section}{\numberline {10}Evaluation}{26}{}%
+\contentsline {subsection}{\numberline {10.1}Evaluating the fused model}{26}{}%
+\contentsline {subsection}{\numberline {10.2}Evaluating all the models}{26}{}%
+\contentsline {subsection}{\numberline {10.3}Testing different fusion models}{27}{}%
+\contentsline {subsection}{\numberline {10.4}Trying different hyper-parameter combinations for LR model}{27}{}%
